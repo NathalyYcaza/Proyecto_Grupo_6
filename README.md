@@ -1,6 +1,7 @@
 # Control de inventario de una tienda
 
 **Asignatura:** 2026_199_UCOM250_81 - Organizacion y Arquitectura de Computadoras
+
 **Integrantes:** Alejandra Iturralde y Nathaly Ycaza
 **Año:** 2026  
 **Fecha:** 19 de Noviembre del 2026
